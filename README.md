@@ -9,4 +9,5 @@ This repository has luas meant for TF2 and LMAOBox.
   
 | Name | File Name | Status | Type |
 | ----------- | --------- | ----------- | --------- |
+| StringCMD Example | StrCMDex.lua | Out | Example |
 | Anti Aim Detector | aa_detector.lua | Being Worked On | Utility |
