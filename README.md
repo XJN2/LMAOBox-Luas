@@ -7,6 +7,6 @@ This repository has luas meant for TF2 and LMAOBox.
 
 ### Currently Released Luas
   
-| Name | Status | Type |
-| ----------- | ----------- | --------- |
-| Anti Aim Detector      | Being Worked On.       | Utility |
+| Name | File Name | Status | Type |
+| ----------- | --------- | ----------- | --------- |
+| Anti Aim Detector | aa_detector.lua | Being Worked On | Utility |
