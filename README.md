@@ -10,4 +10,5 @@ This repository has luas meant for TF2 and LMAOBox.
 | Name | File Name | Status | Type |
 | ----------- | --------- | ----------- | --------- |
 | StringCMD Example | StrCMDex.lua | Out | Example |
+| Gaysense Watermark | gaysense.lua | Out | Utility |
 | Anti Aim Detector | aa_detector.lua | Causing me Pain | Utility |
