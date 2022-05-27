@@ -1,6 +1,6 @@
 --[[
     
-    gaysense.lua
+    loader.lua
     XJN2
     https://github.com/XJN2/LMAOBox-Luas
 ]]
@@ -69,7 +69,7 @@ local function check_key()
             menu.Style.ItemHover = { 105, 105, 105, 255 }
             menu:AddComponent(MenuLib.Label("Invalid key!"))
             menu:AddComponent(MenuLib.Label("If you think this is a mistake, you can:"))
-            menu:AddComponent(MenuLib.Label("1. Contact me on [Platform] and I'll help you."))
+            menu:AddComponent(MenuLib.Label("1. Contact me on [Platform] and I'll help you.")) -- Replace "[Platform]" with ur contact or sum shit.
             menu:AddComponent(MenuLib.Label("2. Reload the loader."))
         end
     end
