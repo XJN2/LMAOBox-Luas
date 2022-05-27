@@ -9,6 +9,7 @@ This repository has luas meant for TF2 and LMAOBox.
   
 | Name | File Name | Status | Type |
 | ----------- | --------- | ----------- | --------- |
+| Lua Loader Base | loader.lua | Out | I actually don't know how to catagorize this |
 | StringCMD Example | StrCMDex.lua | Out | Example |
 | Gaysense Watermark | gaysense.lua | Out | Utility |
 | Anti Aim Detector | aa_detector.lua | Causing me Pain | Utility |
